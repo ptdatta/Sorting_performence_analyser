@@ -2,7 +2,7 @@
 The analyser for five main different sorting techniques
  - Selecion Sort
  - Merge Sort
- - Quick Sort
+ - Bubble Sort
  - Inseration Sort
  - Quick Sort
 
